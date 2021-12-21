@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ClassLibrary1.Model.FileDetailsModel>
+<table class="table table-bordered">
+    <tr>
+        @*<th class="col-md-4">
+            @Html.DisplayNameFor(model => model.FileContent)
+        </th>*@
+        <th class="col-md-4">
+            @Html.DisplayNameFor(model => model.FileName)
+        </th>
+        <th class="col-md-2"></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    @*<td>
+    @if (item.FileContent != null)
+    {
+
+        var base64 = Convert.ToBase64String(item.FileContent);
+        var imgsrc = string.Format("data:image/png;base64,{0}", base64);
+        <img class="card-img-top img-fluid" src="@imgsrc" alt="PDF FILE" style="width: 6rem; height: 5rem;">
+    }
+    </td>*@
+    <td>
+        @Html.DisplayFor(modelItem => item.FileName)
+    </td>
+
+    <td>
+        @Html.ActionLink("Downlaod", "DownLoadFile", new { id = item.Id })
+
+    </td>
+</tr>
+
+    }
+
+</table>

@@ -1,0 +1,6 @@
+C:\Users\DCL\source\repos\DocumentUploader\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\DCL\source\repos\DocumentUploader\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\DCL\source\repos\DocumentUploader\ClassLibrary1\obj\Debug\Document_Uploader.data.csprojAssemblyReference.cache
+C:\Users\DCL\source\repos\DocumentUploader\ClassLibrary1\obj\Debug\Document_Uploader.data.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\DocumentUploader\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\DCL\source\repos\DocumentUploader\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

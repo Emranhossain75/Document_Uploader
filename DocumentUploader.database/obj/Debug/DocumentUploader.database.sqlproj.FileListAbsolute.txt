@@ -1,0 +1,6 @@
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.database\bin\Debug\DocumentUploader.database.dacpac
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.database\bin\Debug\DocumentUploader.database.dll
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.database\bin\Debug\DocumentUploader.database.pdb
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.database\obj\Debug\DocumentUploader.database.dll
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.database\obj\Debug\DocumentUploader.database.pdb
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.database\obj\Debug\DocumentUploader.database.sqlprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\bin\Debug\DocumentUploader.test.dll
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\bin\Debug\DocumentUploader.test.pdb
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\obj\Debug\DocumentUploader.test.csprojAssemblyReference.cache
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\obj\Debug\DocumentUploader.test.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\obj\Debug\DocumentUploader.test.csproj.CopyComplete
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\obj\Debug\DocumentUploader.test.dll
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.test\obj\Debug\DocumentUploader.test.pdb

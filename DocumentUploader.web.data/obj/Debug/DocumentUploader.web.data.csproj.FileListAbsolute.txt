@@ -1,0 +1,7 @@
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.web.data\bin\Debug\DocumentUploader.web.data.exe.config
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.web.data\bin\Debug\DocumentUploader.web.data.exe
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.web.data\bin\Debug\DocumentUploader.web.data.pdb
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.web.data\obj\Debug\DocumentUploader.web.data.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.web.data\obj\Debug\DocumentUploader.web.data.exe
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.web.data\obj\Debug\DocumentUploader.web.data.pdb
+C:\Users\DCL\source\repos\DocumentUploader\DocumentUploader.web.data\obj\Debug\DocumentUploader.web.data.csprojAssemblyReference.cache

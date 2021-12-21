@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DocumentUploaderModelStoreContainer" CdmEntityContainer="DocumentUploaderEntities">
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="DocumentUploaderModel.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Suppliers">
+      <EntityTypeMapping TypeName="DocumentUploaderModel.Supplier">
+        <MappingFragment StoreEntitySet="Supplier">
+          <ScalarProperty Name="SupplierId" ColumnName="SupplierId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UploadedDocuments">
+      <EntityTypeMapping TypeName="DocumentUploaderModel.UploadedDocument">
+        <MappingFragment StoreEntitySet="UploadedDocument">
+          <ScalarProperty Name="UploadId" ColumnName="UploadId" />
+          <ScalarProperty Name="RelatedTo" ColumnName="RelatedTo" />
+          <ScalarProperty Name="RelatedRecordId" ColumnName="RelatedRecordId" />
+          <ScalarProperty Name="Document" ColumnName="Document" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
